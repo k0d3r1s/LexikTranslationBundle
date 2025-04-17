@@ -26,14 +26,14 @@
         "doctrine/doctrine-bundle": "^2.2",
         "doctrine/orm": "^3",
         "monolog/monolog": "^3.2",
-        "symfony/asset": "^7.0",
-        "symfony/form": "^7.0",
-        "symfony/framework-bundle": "^7.0",
-        "symfony/security-csrf": "^7.0",
-        "symfony/translation": "^7.0",
-        "symfony/twig-bundle": "^7.0",
-        "symfony/validator": "^7.0",
-        "symfony/yaml": "^7.0"
+        "symfony/asset": "^6.4|^7.0",
+        "symfony/form": "^6.4|^7.0",
+        "symfony/framework-bundle": "^6.4|^7.0",
+        "symfony/security-csrf": "^6.4|^7.0",
+        "symfony/translation": "^6.4|^7.0",
+        "symfony/twig-bundle": "^6.4|^7.0",
+        "symfony/validator": "^6.4|^7.0",
+        "symfony/yaml": "^6.4|^7.0"
     },
     "require-dev": {
         "ext-mongodb": "^1.21.0 || ^2.0.0",
@@ -60,7 +60,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "4.x.x-dev"
+            "dev-master": "7.x.x-dev"
         }
     },
     "minimum-stability": "alpha",
